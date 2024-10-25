@@ -8,6 +8,8 @@ Extrai links .m3u8 diretamente do conteúdo dos posts.
 Converte links embutidos especiais no formato .m3u8.
 Extrai imagens destacadas dos posts e as associa aos canais.
 Salva a playlist em um arquivo iptv_playlist.m3u.
+
+
 Como Funciona:
 
 Obter Categorias: O script solicita as categorias de um endpoint da API REST.
