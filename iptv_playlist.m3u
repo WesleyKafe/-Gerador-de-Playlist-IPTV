@@ -1,0 +1,115 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MasterChef Brasil" tvg-name="MasterChef Brasil" tvg-logo="https://ultratvonline.org/wp-content/uploads/2024/07/masterchef.webp" group-title="Canais 24h",MasterChef Brasil
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-masterchef-lgbr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tastemade Brasil" tvg-name="Tastemade Brasil" tvg-logo="https://ultratvonline.org/wp-content/uploads/2024/07/tastemadebrasil.webp" group-title="Canais 24h",Tastemade Brasil
+https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="24h: A Praça é Nossa" tvg-name="24h: A Praça é Nossa" tvg-logo="https://ultratvonline.org/wp-content/uploads/2024/07/A-Praca-e-Nossa.webp" group-title="Canais 24h",24h: A Praça é Nossa
+https://fast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/CanalDaPraca/8f4dbd2a-75c8-4407-8dc8-0dc243e3814d/4.m3u8
+
+#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="https://ultratvonline.org/wp-content/uploads/2024/07/animax.webp" group-title="Destaques",Animax
+https://stream.ichibantv.com:3547/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="MasterChef Brasil" tvg-name="MasterChef Brasil" tvg-logo="https://ultratvonline.org/wp-content/uploads/2024/07/masterchef.webp" group-title="Destaques",MasterChef Brasil
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-masterchef-lgbr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Shark Tank Brasil" tvg-name="Shark Tank Brasil" tvg-logo="https://ultratvonline.org/wp-content/uploads/2024/07/sharktank.webp" group-title="Destaques",Shark Tank Brasil
+https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SharkTank/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LA LIGA +" tvg-name="LA LIGA +" tvg-logo="https://ultratvonline.org/wp-content/uploads/2024/07/laliga.webp" group-title="Esportes",LA LIGA +
+https://jmp2.uk/SamsungTVPlus/ESBD3600001Q1.m3u8
+
+#EXTINF:-1 tvg-id="MyTime Movie Network" tvg-name="MyTime Movie Network" tvg-logo="https://ultratvonline.org/wp-content/uploads/2024/07/MyTime-Movie-Network.webp" group-title="Filmes e Séries",MyTime Movie Network
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
+
+#EXTINF:-1 tvg-id="Sony One Emoções" tvg-name="Sony One Emoções" tvg-logo="https://ultratvonline.org/wp-content/uploads/2024/07/sonyoneemocoes.webp" group-title="Filmes e Séries",Sony One Emoções
+https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://ultratvonline.org/wp-content/uploads/2024/07/TCM.webp" group-title="Filmes e Séries",TCM
+https://cdn-4.nxplay.com.br/TCM_TK/index.m3u8
+
+#EXTINF:-1 tvg-id="FilmRise Séries" tvg-name="FilmRise Séries" tvg-logo="https://ultratvonline.org/wp-content/uploads/2024/07/FilmRise-Series.webp" group-title="Filmes e Séries",FilmRise Séries
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_filmrisefreeseries_002.m3u8
+
+#EXTINF:-1 tvg-id="Ubisoft TV" tvg-name="Ubisoft TV" tvg-logo="https://ultratvonline.org/wp-content/uploads/2024/07/Ubisoft-TV.webp" group-title="Geek",Ubisoft TV
+https://stream.ads.ottera.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Os Jetsons" tvg-name="Os Jetsons" tvg-logo="https://ultratvonline.org/wp-content/uploads/2024/07/osjetsons.webp" group-title="Geek",Os Jetsons
+https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w1900101009.m3u8
+
+#EXTINF:-1 tvg-id="SATO+" tvg-name="SATO+" tvg-logo="https://ultratvonline.org/wp-content/uploads/2024/07/SATO.webp" group-title="Geek",SATO+
+https://stream.ads.ottera.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Fox Kids" tvg-name="Fox Kids" tvg-logo="https://ultratvonline.org/wp-content/uploads/2024/07/foxkids.webp" group-title="Geek",Fox Kids
+https://stmv1.srvif.com/emlsilva/emlsilva/chunklist720p.m3u8
+
+#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="https://ultratvonline.org/wp-content/uploads/2024/07/animax.webp" group-title="Geek",Animax
+https://stream.ichibantv.com:3547/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="Wording TV" tvg-name="Wording TV" tvg-logo="https://ultratvonline.org/wp-content/uploads/2024/07/wording.webp" group-title="Geek",Wording TV
+https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist_w1264551258.m3u8
+
+#EXTINF:-1 tvg-id="Otaku Sign TV" tvg-name="Otaku Sign TV" tvg-logo="https://ultratvonline.org/wp-content/uploads/2024/07/Otaku-Sign-TV.webp" group-title="Geek",Otaku Sign TV
+https://stmv1.srvif.com/otaku/otaku/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Loading&#8230;TV" tvg-name="Loading&#8230;TV" tvg-logo="https://ultratvonline.org/wp-content/uploads/2024/07/loadingtv.webp" group-title="Geek",Loading&#8230;TV
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AnimeTV" tvg-name="AnimeTV" tvg-logo="https://ultratvonline.org/wp-content/uploads/2024/07/animetv.webp" group-title="Geek",AnimeTV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Geekdot" tvg-name="Geekdot" tvg-logo="https://ultratvonline.org/wp-content/uploads/2024/07/geekdot.webp" group-title="Geek",Geekdot
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="Urban Kids" tvg-name="Urban Kids" tvg-logo="https://ultratvonline.org/wp-content/uploads/2024/07/urbankids.webp" group-title="Infantil",Urban Kids
+https://cdn-4.nxplay.com.br/URBAN_KIDS_TK/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Kids Mais" tvg-name="Kids Mais" tvg-logo="https://ultratvonline.org/wp-content/uploads/2024/07/Kids-Mais.webp" group-title="Infantil",Kids Mais
+https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Duck TV" tvg-name="Duck TV" tvg-logo="https://ultratvonline.org/wp-content/uploads/2024/07/ducktv.webp" group-title="Infantil",Duck TV
+https://stream.ads.ottera.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Toon Goggles" tvg-name="Toon Goggles" tvg-logo="https://ultratvonline.org/wp-content/uploads/2024/07/toongoogles.webp" group-title="Infantil",Toon Goggles
+https://stream.ads.ottera.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Fox Kids" tvg-name="Fox Kids" tvg-logo="https://ultratvonline.org/wp-content/uploads/2024/07/foxkids.webp" group-title="Infantil",Fox Kids
+https://stmv1.srvif.com/emlsilva/emlsilva/chunklist720p.m3u8
+
+#EXTINF:-1 tvg-id="TV Rá Tim Bum" tvg-name="TV Rá Tim Bum" tvg-logo="https://ultratvonline.org/wp-content/uploads/2024/07/TV-Ra-Tim-Bum.webp" group-title="Infantil",TV Rá Tim Bum
+https://cdn-4.nxplay.com.br/TV_RA_TIM_BUM/index.m3u8
+
+#EXTINF:-1 tvg-id="ZooMoo Kids" tvg-name="ZooMoo Kids" tvg-logo="https://ultratvonline.org/wp-content/uploads/2024/07/zomookids.webp" group-title="Infantil",ZooMoo Kids
+https://cdn-4.nxplay.com.br/ZOOMOO_HD_NX_TK/index.m3u8
+
+#EXTINF:-1 tvg-id="Rakuten Tv" tvg-name="Rakuten Tv" tvg-logo="https://ultratvonline.org/wp-content/uploads/2024/07/rakutentv.webp" group-title="Infantil",Rakuten Tv
+https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rede Gospel" tvg-name="Rede Gospel" tvg-logo="https://ultratvonline.org/wp-content/uploads/2024/07/redegospel.webp" group-title="Religioso",Rede Gospel
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Canção Nova" tvg-name="Canção Nova" tvg-logo="https://ultratvonline.org/wp-content/uploads/2024/07/cancaonova.webp" group-title="Religioso",Canção Nova
+https://cdn-4.nxplay.com.br/CANCAO_NOVA_TK/index.m3u8
+
+#EXTINF:-1 tvg-id="Rede Século 21" tvg-name="Rede Século 21" tvg-logo="https://ultratvonline.org/wp-content/uploads/2024/07/seculo21.webp" group-title="Religioso",Rede Século 21
+https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Pai Eterno" tvg-name="Pai Eterno" tvg-logo="https://ultratvonline.org/wp-content/uploads/2024/07/paieterno-300x150.webp" group-title="Religioso",Pai Eterno
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tv Aparecida" tvg-name="Tv Aparecida" tvg-logo="https://ultratvonline.org/wp-content/uploads/2024/07/tvaparecida.webp" group-title="Religioso",Tv Aparecida
+https://cdn.live.br1.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Novo Tempo" tvg-name="Novo Tempo" tvg-logo="https://ultratvonline.org/wp-content/uploads/2024/07/novotempo-300x150.webp" group-title="Religioso",Novo Tempo
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
+
+#EXTINF:-1 tvg-id="Tv Evangelizar" tvg-name="Tv Evangelizar" tvg-logo="https://ultratvonline.org/wp-content/uploads/2024/07/tvevangelizar-300x150.webp" group-title="Religioso",Tv Evangelizar
+https://5f593df7851db.streamlock.net/evangelizar/tv/chunklist_w1384972816.m3u8
+
+#EXTINF:-1 tvg-id="Tv Universal" tvg-name="Tv Universal" tvg-logo="https://ultratvonline.org/wp-content/uploads/2024/07/tvuniversal-300x150.webp" group-title="Religioso",Tv Universal
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_feb8a1e0-b393-4fd8-90fc-1fe4a2d45885.m3u8
+
+#EXTINF:-1 tvg-id="Tv Padre Cícero" tvg-name="Tv Padre Cícero" tvg-logo="https://ultratvonline.org/wp-content/uploads/2024/07/tvpadrecicero.webp" group-title="Religioso",Tv Padre Cícero
+https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/chunklist_w2093968578.m3u8
+
