@@ -12,7 +12,7 @@ def get_content(url):
         print(e)
         return None
 
-categories_url = "https://ultratvonline.org/wp-json/wp/v2/categories"
+categories_url = "https://supertvaovivo.io/wp-json/wp/v2/categories"
 
 def get_posts(category_id):
     posts = []
@@ -21,7 +21,7 @@ def get_posts(category_id):
     more_posts = True
 
     while more_posts:
-        posts_url = f"https://ultratvonline.org/wp-json/wp/v2/posts?categories={category_id}&page={page}&per_page={per_page}"
+        posts_url = f"https://supertvaovivo.io/wp-json/wp/v2/posts?categories={category_id}&page={page}&per_page={per_page}"
         posts_response = get_content(posts_url)
 
         if posts_response is None:
