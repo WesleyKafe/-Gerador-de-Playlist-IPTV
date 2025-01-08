@@ -1,6 +1,6 @@
 # Descrição:
 
-Este script gera uma playlist IPTV extraindo links de streaming .m3u8 de um site especificado. Ele faz o scraping do site para obter categorias e posts associados, identifica links de streaming e recupera imagens destacadas. Os links resultantes são organizados por categoria e salvos em um arquivo de playlist no formato padrão M3U, que pode ser utilizado em players de IPTV Funciona em qualquer site Wordpress
+Este script gera uma playlist IPTV extraindo links de streaming .m3u8 de um site especificado em Wordpress. Ele faz o scraping do site para obter categorias e posts associados, identifica links de streaming e recupera imagens destacadas. Os links resultantes são organizados por categoria e salvos em um arquivo de playlist no formato padrão M3U, que pode ser utilizado em players de IPTV Funciona em qualquer site Wordpress
 
 ## :heavy_exclamation_mark:  Pré-requisitos:
 
